@@ -23,7 +23,7 @@
 
 
 # 📖 [TDD project] <a name="about-project"></a>
-In this project you will implement a class with some methods, but you will do it by doing test-driven development (TDD). Remember that the idea is to write tests first and then the code. This will be verified in your commits history, so it is important to use the proper sequence.
+In this project we implemented a solver class with three methods: factorial, reverse string and fizzbuzz methods. The methods were created using test-driven development (TDD). 
 
 ## 🛠 Built With <a name="built-with"></a>
 ```sh 
@@ -40,9 +40,9 @@ Ruby
 ### Key Features <a name="key-features"></a>
 
 
-- Add a teacher or student to the school library app👌
-- Add books to the School -library💯
-- Rent books from the library and also preserve the data👌
+- Provide the factorial of a number
+- Reverse a string💯
+- Generate a fizzbuzz output based on the input👌
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,13 +111,13 @@ To run tests, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- **Edit Details of Existing members of the library**
-- **Edit Books in the Library**
-- **Delete the details of people no longer in the library**
+- **Create a simple GUI for the project**
+- **Enable the user to pass in input using the console**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
+
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -127,11 +127,11 @@ Feel free to check the [issues page](https://github.com/brhanuhailu/TDD-group-/i
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
+
 
 ## ⭐️ Show your support <a name="support"></a>
 
- I am  so excited to accept you feedback to improve my profession.
+ We are so excited to accept you feedback to improve our profession.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -139,7 +139,7 @@ Feel free to check the [issues page](https://github.com/brhanuhailu/TDD-group-/i
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse and everyone who has contributed to this project
+We would like to thank Microverse and everyone who has contributed to this project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
