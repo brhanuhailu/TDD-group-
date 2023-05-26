@@ -62,7 +62,7 @@ RSpec.describe Solver do
 
       it 'returns the number when given a number not divisible by 3 or 5' do
         subject { described_class.new }
-        expect(subject.fizzbuzz(7)).to eq(7)
+        expect(subject.fizzbuzz(7)).to eq('7')
       end
     end
   end
